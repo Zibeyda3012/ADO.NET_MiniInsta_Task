@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET_MiniInsta_Task", "ADO.NET_MiniInsta_Task\ADO.NET_MiniInsta_Task.csproj", "{89E06AA2-2A75-40AC-A462-23C544CCFB86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E06AA2-2A75-40AC-A462-23C544CCFB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E06AA2-2A75-40AC-A462-23C544CCFB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E06AA2-2A75-40AC-A462-23C544CCFB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E06AA2-2A75-40AC-A462-23C544CCFB86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F831E31-BDED-4145-A1AA-CDB4650B8282}
+	EndGlobalSection
+EndGlobal
